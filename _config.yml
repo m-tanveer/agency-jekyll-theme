@@ -1,6 +1,6 @@
 # site url
 url: https://m-tanveer.github.io
-baseurl: /m-tanveer.github.io/
+baseurl:
 
 # Site settings
 title: Awesome Title
