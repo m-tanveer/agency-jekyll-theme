@@ -3,7 +3,7 @@ url: http://www.vitruvio.in
 baseurl: ''
 
 # Site settings
-title: Vitruvio Groups
+title: VITRUVIO GROUPS
 email: vitruviogroups@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
@@ -13,24 +13,11 @@ people:
 - name: Asif Munavar
   pic: 1
   position: Co-Founder
-  social:
-    - title: 
-      url: #
-    - title: 
-      url: #
-    - title: 
-      url: #
-
+ 
 - name: Lovely Jain
   pic: 2
   position: Designer
-  social:
-    - title: 
-      url: #
-    - title: 
-      url: #
-    - title: 
-      url: #
+  
 
 - name: Rishabh Agarwal
   pic: 3
