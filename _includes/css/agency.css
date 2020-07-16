@@ -208,7 +208,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-weight: 800;
+    font-weight: 900;
     letter-spacing: 1px;
     color: #fff;
     -webkit-transition: all ease .35s;
@@ -280,8 +280,8 @@ background-image: url('img/header-bg.jpg');
 }
 
 header .intro-text {
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding-top: 130px;
+    padding-bottom: 20px;
 }
 
 header .intro-text .intro-lead-in {
