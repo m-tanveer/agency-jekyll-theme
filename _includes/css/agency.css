@@ -208,7 +208,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-weight: 400;
+    font-weight: 800;
     letter-spacing: 1px;
     color: #fff;
     -webkit-transition: all ease .35s;
@@ -267,7 +267,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #000000;
     background-attachment: scroll;
 background-image: url('img/header-bg.jpg');
     /* background-image: url('{{ site.baseurl }}/img/header-bg.jpg'); */
@@ -447,7 +447,7 @@ section h3.section-subheading {
     left: 40px;
     width: 2px;
     margin-left: -1.5px;
-    background-color: #f1f1f1;
+    background-color: #8b0000;
 }
 
 .timeline>li {
